@@ -1,0 +1,46 @@
+<html>
+<head>
+<title> html form </title>
+</head>
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+div {color: red;} 
+</style>
+<form> <fieldset>
+<h1> Student Registration Form </h1>
+<div>Name :<input type ="text"></div><br>
+<div>Father's Name : <input type ="text"></div><br>
+<div>Mother's Name : <input type ="text"></div><br>
+<div>Phone No. Name :<input type ="text"></div><br>
+<div>EMAIL: <input type ="text"></div>
+<div><br>GENDER MALE :<Input type="radio"name="My gender">
+      FEMALE : <Input type="radio" name="My gender">
+      OTHER : <Input type="radio" name="My gender">
+<div><br>Date Of Birth : <input type ="date"><div></br>
+<div>Address: <input type="Text"</div>
+<div><br>Line No.:<input type="Text"</div></b>
+<div><br>BLOOD GROUP 
+<SELECT name="drop-down">
+    <option value="A+">A+</option>  
+    <option value="A-">A-</option>
+    <option value="B-">B-</option>    
+    <option value="B+">B+</option>
+    <option value="O+">O+</option>
+    <option value="O-">O-</option>
+    </select>
+<div><br>HOBBIES Music:<input type ="radio">
+           Movie:<input type ="radio">
+           Sport: <input type ="radio">
+            Travel:<input type ="radio">
+<div><br>Course Java<input type="checkbox">
+C+<input type="checkbox">
+C++<input type="checkbox">
+Python<input type="checkbox">
+Other<input type="checkbox">
+<div><br>Photo:<input type="file"></br></fieldset>
+<div><br>
+<input type="Submit"value="Submit">
+<input type="reset"value="Reset">
+
+    
