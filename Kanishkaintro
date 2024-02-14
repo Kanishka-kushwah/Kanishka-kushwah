@@ -1,0 +1,19 @@
+<html>
+<head>  
+<style>
+ body{background-color:powderblue;}
+ </style>
+ </head>
+ <body>
+ <h2 style="color:black; Background-color: limegreen;"> Hello Mam/Sir</h2>
+ <p style ="color:black; Background-color: hotpink; margin-left: 100px "> INRODUCTION
+ -My Name Is Kanishka Kushwah. i Belong To Gwalior (M.P.) I'm Pursuing B.sc In CS From Govt. Dr. Bhagwat Sahaye College which is affiliated With Jiwaji University.</p>
+ 
+ <p style="color:navyblue; background-color: seagreen;margin-right: 100px">COURSE- Additionally, I've completed Diploma in Computer Application, Digital Marketing course, Email Marketing course, Video Editing Basics, And tally.</p>
+ <p style="color:black; background-color: greenyellow;margin-left: 100px"> EXPERIENCE- I have One year experience as a computer operator and as a office assistant also. </p>
+ <p style="color:black ; Background-color:skyblue;margin-right: 100px"> FAMILY BACKGROUND- Coming To My Family Background There are 4 members in my family including me. My Father Work in a Private Factory. My Mother Work as a housewife and My Younger Brother studying in 10th standard. </p>
+ <p style="color:black; Background-color: orange;margin-left: 100px">STRENGTH-Talking about my strength,I'm a hardworking an self-motivated person. </p>
+ <p style="color:black; background-color: pink"> That's all about me </p>
+ <h3> Thank You </h3>
+  </body>
+ </html>
